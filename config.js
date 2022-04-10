@@ -49,7 +49,7 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/rizkiwibu'
 kasihcaption = `Nih kak`
-namakontak1 = 'DDOEDITZYT'
+namakontak1 = '𝙴𝚕𝚊𝚒𝚗𝚊𝙱𝚘𝚝𝚣'
 namakontak2 = ' owner Bot'
 
 //kasihcaption = `Nih Kak`
